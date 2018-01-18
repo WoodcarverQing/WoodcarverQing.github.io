@@ -1,0 +1,43 @@
+body {
+	background: #323335;
+	margin: 50px auto;
+	font-family: arial;
+}
+.header {
+	margin: auto;
+	margin-top: 30px;
+	width: 900px;
+	font-size: 25px;
+
+}
+h1 {
+
+}
+.nav_bar {
+	list-style-type: none;
+	margin: 50px auto;
+	padding: 0;
+	width: 1100px;
+
+
+}
+.nav_bar a {
+	display: block;
+	width: 60px;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 8px 16px;
+	color: #4ae520;
+
+
+}
+.main_container {
+
+}
+h3 {
+	margin: 15px;
+
+}
+p {
+
+}
